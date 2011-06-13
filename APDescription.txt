@@ -1,0 +1,1 @@
+( ap-description  :name "bifab" :ap-services (set ( ap-service  :name fipa.mts.mtp.http.std :type fipa.mts.mtp.http.std :addresses (sequence http://fourier:7778/acc))))
